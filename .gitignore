@@ -1,0 +1,3 @@
+__pycache__
+notebooks/Demo_POS_Tagging_NLTK_Spacy.ipynb
+data/*/*.csv
